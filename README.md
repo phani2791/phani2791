@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phani2791
-- 👀 I’m interested in UI and DEVOPS platforms.
+- 👀 I’m interested in Fullstack application's with Azure cloud.
 - 📫 Reach me at phanikumar2791@gmail.com
 
 <!---
