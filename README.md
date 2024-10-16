@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @phani2791
 - 👀 I’m interested in UI and DEVOPS platforms.
-- 🌱 I’m currently learning REACT JS
 - 📫 Reach me at phanikumar2791@gmail.com
 
 <!---
